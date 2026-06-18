@@ -1,0 +1,11 @@
+site,asset_type,asset_count,replacement_value
+NewYork-DC2,Storage Array,12,402673.27
+Phoenix-DC1,Storage Array,8,322260.92
+Chicago-DC2,Storage Array,11,322195.36
+NewYork-DC1,Storage Array,8,302037.77
+Seattle-DC1,Storage Array,11,295572.34
+Atlanta-DC1,Storage Array,8,293633.83
+Chicago-DC1,Server,11,289091.13
+Austin-DC1,Storage Array,7,283969.34
+Dallas-DC1,Load Balancer,12,261211.02
+Phoenix-DC1,Load Balancer,13,247526.16

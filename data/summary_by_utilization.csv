@@ -1,0 +1,11 @@
+asset_type,avg_utilization_pct,active_count
+Firewall,56.7,232
+Router,55.9,243
+Storage Array,55.7,248
+Patch Panel,55.7,255
+Server,55.4,271
+Load Balancer,55.1,247
+UPS Unit,54.4,249
+Switch,54.3,268
+PDU,54.2,276
+Optical Transceiver,54.2,252
